@@ -1,0 +1,19 @@
+# 密钥配置
+.env
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 系统缓存
+.cache/
+huggingface/
+# 日志
+*.log
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+# FAISS向量缓存（可选）
+*.faiss
